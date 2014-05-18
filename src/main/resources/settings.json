@@ -1,0 +1,8 @@
+{
+    "maxPosts": 25,
+    "sender": "",
+    "recipients": [ ],
+    "outputDirectory": "./output/",
+    "emailFileName": "email.txt",
+    "recentPostsFileName": "recentPosts.txt"
+}
