@@ -1,7 +1,7 @@
 RedditNotifier
 ==============
 
-RedditNotifier is a scala application that fetches posts from a particular subreddit and sends an email for each post found.
+RedditNotifier is a Scala application that fetches posts from a particular subreddit and sends an email for each post found.
 
 configure the fields "sender" and "recipients" of  [settings.json](https://github.com/patrickdean/RedditNotifier/blob/master/src/main/resources/settings.json) with email addresses for sending/receiving.
 
